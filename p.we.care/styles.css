@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*..............computador......................*/
 .logo-image{
     width: 568px;
     height: 500px;
@@ -75,6 +76,7 @@ p{
     line-height: 34px;
     color: #000000;
 }
+/*...............celular..................*/
 @media screen and (max-width: 390px){
     
     *{font-family: 'Montserrat', sans-serif;
